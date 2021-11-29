@@ -1,1 +1,1 @@
-# SeaBorn_Practices
+# SeaBorn Practices
